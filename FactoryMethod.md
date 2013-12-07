@@ -1,9 +1,9 @@
-Factoy工厂模式
+Factory工厂模式
 ================
 
 工厂方法
 <pre>
-public class Facotory{
+public class Factory{
 
      public static Sample creator(int which){
           if (which ==1)
